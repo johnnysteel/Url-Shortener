@@ -9,7 +9,7 @@ This application was made to help sharpen my understanding of python and flask, 
 ### Home Page
 ![Url-Shortener](https://user-images.githubusercontent.com/77905977/150072183-25664069-e95f-403f-98a0-0eee6a9282c8.png)
 
-### Entering a shortcode + URL
+### Entering a Shortcode + URL
 ![url-short-entering-url](https://user-images.githubusercontent.com/77905977/150074198-fc501307-5702-46f2-b492-232f3fdb786f.png)
 
 ### Creation of New URL
