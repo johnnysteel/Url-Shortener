@@ -4,4 +4,4 @@ This URL/file shortener allows users to create shortcodes for URLS/files of thei
 
 This application was made to help sharpen my understanding of python and flask, and was beautifully templated using html/css, bootstrap, and jinja2.
 
-![Screenshot](https://postimg.cc/QB6vZPsz)
+[Url-Shortener.png](https://postimg.cc/QB6vZPsz)
